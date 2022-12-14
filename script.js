@@ -3,7 +3,7 @@ const ctx = canvas.getContext("2d")
 const canvasSize = 600
 canvas.width = canvasSize
 canvas.height = canvasSize
-//
+
 const size = 20
 const mapLength = canvasSize / size
 const direction = { x: 0, y: 0 }
